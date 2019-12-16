@@ -1,0 +1,25 @@
+language: python
+
+install:
+  - pip install -r requirements.txt
+
+script:
+  - make html
+  - touch build/html/.nojekyll
+
+branches:
+  only:
+  - master
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: build/html/
+  on:
+    branch: master
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always

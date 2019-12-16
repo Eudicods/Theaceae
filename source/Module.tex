@@ -1,0 +1,83 @@
+\documentclass[oneside]{book}
+
+% Packages
+\usepackage[margin=1in]{geometry}
+\usepackage{bold-extra}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{caption}
+\usepackage{ifthen}
+\usepackage{secdot}
+\usepackage{array}
+\usepackage[table]{xcolor}
+
+\definecolor{firebrick}{RGB}{178,34,34}
+
+% Chapter titles
+\newboolean{inappendix}
+\setboolean{inappendix}{false}
+\titleformat{\chapter}
+   {\huge\color{firebrick}\textsc}{\ifthenelse{\boolean{inappendix}}{Appendix}{Chapter} \thechapter:}{.25em}{}
+\titleformat{\section}
+   {\large\color{firebrick}\textsc}{\thesection. }{}{}
+
+% Table of Contents
+\renewcommand{\cftchapfont}{\bfseries\scshape}
+\renewcommand{\cftchappagefont}{\bfseries}
+\renewcommand{\cftchappresnum}{Chapter }
+\renewcommand{\cftchapaftersnum}{:}
+\renewcommand{\cftchapnumwidth}{6.3em}
+\renewcommand{\cftchapafterpnum}{\vspace{1mm} \hrule \vspace{1mm}}
+
+\sectiondot{section}
+\renewcommand{\cftsecaftersnum}{.}
+\renewcommand{\cftsecnumwidth}{2.3em}
+
+\chapterfont{\underline}
+
+% Document
+\begin{document}
+
+\begin{titlepage}
+\centering
+
+{\Huge\bfseries\color{firebrick} Unnamed Elf Module\par}
+\vspace{2cm}
+{\large\itshape Jeremy L Thompson}
+
+\end{titlepage}
+
+\chapter*{Contents}
+
+\begin{multicols}{2}
+\makeatletter
+\large{
+\@starttoc{toc}
+}
+\makeatother
+\end{multicols}
+
+\chapter*{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+
+\input{0-Intro/Intro}
+
+\chapter{Theaceae}
+
+\input{1-Theaceae/Theaceae}
+
+\chapter{East Side}
+
+\input{2-EastSide/EastSide}
+
+\chapter{Mountains}
+
+\input{3-Mountains/Mountains}
+
+\chapter{Dry Side}
+
+\input{4-DrySide/DrySide}
+
+\end{document}
