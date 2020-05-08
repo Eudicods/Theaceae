@@ -6,6 +6,7 @@ Dry Side
 .. toctree::
    :maxdepth: 2
 
+   WolffPoint/index
    Academy/index
    Sisters/index
    Farm/index
