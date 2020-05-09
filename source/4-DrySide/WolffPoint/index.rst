@@ -6,3 +6,7 @@ Wolff Point
 Wolff Trading Post
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: TradingPost.tex
+
+Majestic Badger
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: MajesticBadger.tex
