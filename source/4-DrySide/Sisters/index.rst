@@ -1,3 +1,12 @@
 Sisters
+====================================
+
+.. include:: Intro.tex
+
+San Leor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: Sisters.tex
+.. include:: SanLeor.tex
+
+Verses
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: Verses.tex
