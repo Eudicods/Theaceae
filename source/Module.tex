@@ -1,41 +1,73 @@
 \documentclass[oneside]{book}
 
 % Packages
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=0.75in]{geometry}
 \usepackage{bold-extra}
 \usepackage{multicol}
 \usepackage{multirow}
-\usepackage{titlesec}
-\usepackage{tocloft}
 \usepackage{caption}
+\usepackage{sectsty}
+\usepackage{tocloft}
 \usepackage{ifthen}
 \usepackage{secdot}
 \usepackage{array}
 \usepackage[table]{xcolor}
+\usepackage{titlesec}
+\usepackage[pages=all]{background}
 
-\definecolor{firebrick}{RGB}{178,34,34}
+% Colors
+\definecolor{firebrick}{RGB}{94,18,0}
+\definecolor{gold}{RGB}{206,179,31}
 
-% Chapter titles
+% Background
+\backgroundsetup{
+  scale=1,
+  color=black,
+  opacity=0.4,
+  angle=0,
+  contents={%
+    \includegraphics[width=\paperwidth,height=\paperheight]{img/background.jpg}
+  }%
+}
+
+% Chapter and section titles
 \newboolean{inappendix}
 \setboolean{inappendix}{false}
 \titleformat{\chapter}
-   {\huge\color{firebrick}\textsc}{\ifthenelse{\boolean{inappendix}}{Appendix}{Chapter} \thechapter:}{.25em}{}
-\titleformat{\section}
-   {\large\color{firebrick}\textsc}{\thesection. }{}{}
+  {\huge\scshape\color{firebrick}}
+  {\ifthenelse{\boolean{inappendix}}{Appendix}{Chapter} \thechapter:}
+  {.25em}
+  {}
 
-% Table of Contents
-\renewcommand{\cftchapfont}{\bfseries\scshape}
-\renewcommand{\cftchappagefont}{\bfseries}
+\titleformat{\section}
+  {\Large\scshape\color{firebrick}}
+  {}
+  {0em}
+  {}
+
+\titleformat{\subsection}
+  {\large\scshape\color{firebrick}}
+  {}
+  {0em}
+  {}
+  [{\color{gold}\titlerule[1.25pt]}]
+
+% Table of contents
+\renewcommand{\cftchapfont}{\bfseries\color{firebrick}}
+\renewcommand\cftchapdotsep{\cftdotsep}
+\renewcommand{\cftchapdotsep}{1.5}
 \renewcommand{\cftchappresnum}{Chapter }
 \renewcommand{\cftchapaftersnum}{:}
 \renewcommand{\cftchapnumwidth}{6.3em}
-\renewcommand{\cftchapafterpnum}{\vspace{1mm} \hrule \vspace{1mm}}
 
 \sectiondot{section}
+\renewcommand{\cftsecdotsep}{1.5}
 \renewcommand{\cftsecaftersnum}{.}
-\renewcommand{\cftsecnumwidth}{2.3em}
+\renewcommand{\cftsecnumwidth}{2.0em}
 
-\chapterfont{\underline}
+\renewcommand{\cftsubsecdotsep}{1.5}
+
+\cftsetpnumwidth{1em}
 
 % Document
 \begin{document}
@@ -72,7 +104,7 @@
 
 \input{2-EastSide/EastSide}
 
-\chapter{Mountains}
+\chapter{White Spine Mountains}
 
 \input{3-Mountains/Mountains}
 
