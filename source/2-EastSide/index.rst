@@ -8,3 +8,4 @@ East Side
 
    Douro/index
    Camellia/index
+   Croatoa/index
