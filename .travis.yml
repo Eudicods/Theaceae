@@ -17,7 +17,7 @@ deploy:
   github_token: $GITHUB_TOKEN
   local_dir: build/html/
   on:
-    branch: master
+    branch: main
 
 notifications:
   email:
