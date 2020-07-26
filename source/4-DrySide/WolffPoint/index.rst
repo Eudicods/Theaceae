@@ -10,3 +10,11 @@ Wolff Trading Post
 Majestic Badger
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: MajesticBadger.tex
+
+Shrine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: Shrine.tex
+
+Bauer Ranch
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: BauerRanch.tex
