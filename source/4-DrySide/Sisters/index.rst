@@ -3,10 +3,14 @@ Sisters
 
 .. include:: Intro.tex
 
-San Leor
+Kalkum
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: SanLeor.tex
+.. include:: Kalkum.tex
 
 Verses
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: Verses.tex
+
+Council
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: Council.tex
