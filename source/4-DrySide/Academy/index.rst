@@ -1,6 +1,5 @@
 Adventuring Academy
 ====================================
-
 .. include:: Intro.tex
 
 Wandering Inn
