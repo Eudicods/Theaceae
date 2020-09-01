@@ -16,4 +16,5 @@ Theaceae
    3-Mountains/index
    4-DrySide/index
    5-Campaign/index
+   license
 
