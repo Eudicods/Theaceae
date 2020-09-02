@@ -1,5 +1,6 @@
 ## Theaceae
 [![travis](https://travis-ci.com/Eudicods/Theaceae.svg?branch=main)](https://travis-ci.com/github/Eudicods/Theaceae)
+[![website](https://img.shields.io/badge/website-live-blue)](https://Eudicods.github.io/Theaceae/)
 
 This is the reference materiel for the D&D world of Eudicods.
 
