@@ -1,4 +1,4 @@
-Campaign [SPOILERS!]
+Campaign DM Notes [SPOILERS!]
 ====================================
 
 .. include:: Intro.tex
