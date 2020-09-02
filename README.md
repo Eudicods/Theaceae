@@ -3,7 +3,7 @@
 
 This is the reference materiel for the D&D world of Theaceae.
 
-### Live link
+### Live Website
 https://Eudicods.github.io/Theaceae/
 
 ### Building Locally
