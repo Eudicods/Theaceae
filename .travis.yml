@@ -1,5 +1,8 @@
 language: python
 
+os: linux
+dist: focal
+
 install:
   - pip install -r requirements.txt
 
@@ -8,14 +11,15 @@ script:
   - touch build/html/.nojekyll
 
 branches:
-  only:
-  - main
+  except:
+  - gh-pages
 
 deploy:
   provider: pages
+  strategy: git
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: build/html/
+  token: $GITHUB_TOKEN
+  local_dir: build/html
   on:
     branch: main
 
