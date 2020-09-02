@@ -15,7 +15,7 @@ Theaceae
    2-EastSide/index
    3-Mountains/index
    4-DrySide/index
-   5-Campaign/index
    6-Chronicle/index
+   5-Campaign/index
    license
 
