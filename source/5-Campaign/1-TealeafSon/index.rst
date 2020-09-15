@@ -33,3 +33,16 @@ Stolen Goods
 Into the Deep
 """"""""""""""""""""""""""""""""""""
 .. include:: 2-3-IntoTheDeep.tex
+
+Pick up the Trail
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 3-0-PickUpTrail.tex
+
+Bonus Exploring
+""""""""""""""""""""""""""""""""""""
+.. include:: 3-1-BonusExploring.tex
+
+Wolff Point
+""""""""""""""""""""""""""""""""""""
+.. include:: 3-2-WolffPoint.tex
+
