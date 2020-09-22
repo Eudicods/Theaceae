@@ -46,3 +46,18 @@ Wolff Point
 """"""""""""""""""""""""""""""""""""
 .. include:: 3-2-WolffPoint.tex
 
+On the Trail
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 4-0-OnTheTrail.tex
+
+Searching
+""""""""""""""""""""""""""""""""""""
+.. include:: 4-1-Searching.tex
+
+Party Time
+""""""""""""""""""""""""""""""""""""
+.. include:: 4-2-PartyTime.tex
+
+Come With Us
+""""""""""""""""""""""""""""""""""""
+.. include:: 4-3-ComeWithUs.tex
