@@ -61,3 +61,19 @@ Party Time
 Come With Us
 """"""""""""""""""""""""""""""""""""
 .. include:: 4-3-ComeWithUs.tex
+
+Fight for Your Right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 5-0-FightForYourRight.tex
+
+Captured
+""""""""""""""""""""""""""""""""""""
+.. include:: 5-1-Captured.tex
+
+Negotiations
+""""""""""""""""""""""""""""""""""""
+.. include:: 5-2-Negotiations.tex
+
+Most Dangeous Game
+""""""""""""""""""""""""""""""""""""
+.. include:: 5-3-MostDangerous.tex
