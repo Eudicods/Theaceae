@@ -77,3 +77,15 @@ Negotiations
 Most Dangeous Game
 """"""""""""""""""""""""""""""""""""
 .. include:: 5-3-MostDangerous.tex
+
+Weather Station
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-WeatherStation.tex
+
+Follow the River
+""""""""""""""""""""""""""""""""""""
+.. include:: 6-1-FollowRiver.tex
+
+And Now the Weather
+""""""""""""""""""""""""""""""""""""
+.. include:: 6-2-TheWeather.tex
