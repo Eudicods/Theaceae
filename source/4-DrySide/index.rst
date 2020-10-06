@@ -10,3 +10,4 @@ Dry Side
    Academy/index
    Sisters/index
    Farm/index
+   FeyWoods/index
