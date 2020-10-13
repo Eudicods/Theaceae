@@ -89,3 +89,19 @@ Follow the River
 And Now the Weather
 """"""""""""""""""""""""""""""""""""
 .. include:: 6-2-TheWeather.tex
+
+Escape
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-Escape.tex
+
+Cloaker
+""""""""""""""""""""""""""""""""""""
+.. include:: 7-1-Cloaker.tex
+
+Interrogator
+""""""""""""""""""""""""""""""""""""
+.. include:: 7-2-Interrogator.tex
+
+Secret Place
+""""""""""""""""""""""""""""""""""""
+.. include:: 7-3-SecretPlace.tex
