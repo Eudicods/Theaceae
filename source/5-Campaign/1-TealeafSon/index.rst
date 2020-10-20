@@ -105,3 +105,7 @@ Interrogator
 Secret Place
 """"""""""""""""""""""""""""""""""""
 .. include:: 7-3-SecretPlace.tex
+
+Afterwards
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Afterwards.tex
