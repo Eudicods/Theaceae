@@ -37,3 +37,7 @@ At the Ruins
 Part One
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 3-0-PartOne.tex
+
+Part Two
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 4-0-PartTwo.tex
