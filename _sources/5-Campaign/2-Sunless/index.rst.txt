@@ -53,3 +53,19 @@ Part Four
 Part Five
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 7-0-PartFive.tex
+
+Part Six
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-PartSix.tex
+
+Voyage Home
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-VoyageHome.tex
+
+Dad's Home
+""""""""""""""""""""""""""""""""""""
+.. include:: 9-1-DadsHome.tex
+
+Treasure Map
+""""""""""""""""""""""""""""""""""""
+.. include:: 9-2-TreasureMap.tex
