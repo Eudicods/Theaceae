@@ -69,3 +69,15 @@ Dad's Home
 Treasure Map
 """"""""""""""""""""""""""""""""""""
 .. include:: 9-2-TreasureMap.tex
+
+Gap Filler
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-GapFiller.tex
+
+Slop
+""""""""""""""""""""""""""""""""""""
+.. include:: 10-1-Slop.tex
+
+Downtime
+""""""""""""""""""""""""""""""""""""
+.. include:: 10-2-Downtime.tex
