@@ -14,3 +14,7 @@ Verses
 Council
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: Council.tex
+
+Outlying Areas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: Outlying.tex
