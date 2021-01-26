@@ -13,3 +13,7 @@ Final Research
 Wolf Attack
 """"""""""""""""""""""""""""""""""""
 .. include:: 1-2-WolfAttack.tex
+
+Oneshot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 2-0-Oneshot.tex
