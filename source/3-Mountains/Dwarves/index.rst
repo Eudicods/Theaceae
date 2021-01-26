@@ -8,7 +8,7 @@ Domov
 
 Forges
 """"""""""""""""""""""""""""""""""""
-.. include:: Forge.tex
+.. include:: Forges.tex
 
 Mines
 """"""""""""""""""""""""""""""""""""
