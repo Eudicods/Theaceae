@@ -17,3 +17,15 @@ Wolf Attack
 Oneshot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 2-0-Oneshot.tex
+
+On the Job
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 3-0-OnTheJob.tex
+
+For the King
+""""""""""""""""""""""""""""""""""""
+.. include:: 3-1-ForTheKing.tex
+
+Traveling
+""""""""""""""""""""""""""""""""""""
+.. include:: 3-2-Traveling.tex
