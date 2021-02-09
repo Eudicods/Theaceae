@@ -29,3 +29,7 @@ For the King
 Traveling
 """"""""""""""""""""""""""""""""""""
 .. include:: 3-2-Traveling.tex
+
+Part One
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 4-0-PartOne.tex
