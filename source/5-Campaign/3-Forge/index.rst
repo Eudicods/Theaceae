@@ -37,3 +37,7 @@ Part One
 Part Two
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-PartTwo.tex
+
+Part Three
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-PartThree.tex
