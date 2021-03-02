@@ -41,3 +41,7 @@ Part Two
 Part Three
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 6-0-PartThree.tex
+
+Part Four
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-PartFour.tex
