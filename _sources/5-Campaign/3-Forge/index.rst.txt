@@ -53,3 +53,7 @@ Part Five
 Part Six
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 9-0-PartSix.tex
+
+Civil War
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-CivilWar.tex
