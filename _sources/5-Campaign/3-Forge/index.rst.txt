@@ -61,3 +61,7 @@ Civil War
 Return to Kalkum
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 11-0-Return.tex
+
+Home Away from Home
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 12-0-House.tex
