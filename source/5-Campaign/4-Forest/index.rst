@@ -9,3 +9,7 @@ Local Customs
 Price of Beauty
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 2-0-PriceOfBeauty.tex
+
+Beauty Cleanup
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 3-0-BeautyCleanup.tex
