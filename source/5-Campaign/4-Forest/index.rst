@@ -13,3 +13,7 @@ Price of Beauty
 Beauty Cleanup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 3-0-BeautyCleanup.tex
+
+Hidden Shrine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 4-0-HiddenShrine.tex
