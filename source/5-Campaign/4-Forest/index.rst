@@ -17,3 +17,7 @@ Beauty Cleanup
 Hidden Shrine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 4-0-HiddenShrine.tex
+
+Actual Hidden Shrine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 5-0-ActualHiddenShrine.tex
