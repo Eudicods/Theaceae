@@ -19,3 +19,6 @@ Theaceae
    5-Campaign/index
    license
 
+Other Realms
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`Astral Sea <https://eudicods.github.io/AstralSea/index.html>`_
