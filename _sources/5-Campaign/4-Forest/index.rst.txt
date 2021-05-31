@@ -21,3 +21,11 @@ Hidden Shrine
 Actual Hidden Shrine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-ActualHiddenShrine.tex
+
+Waterlogged
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-Waterlogged.tex
+
+Shut In
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-ShutIn.tex
