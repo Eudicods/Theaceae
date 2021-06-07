@@ -29,3 +29,7 @@ Waterlogged
 Shut In
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 7-0-ShutIn.tex
+
+Cats
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Cats.tex
