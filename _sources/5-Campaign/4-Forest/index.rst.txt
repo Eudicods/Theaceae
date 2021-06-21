@@ -33,3 +33,11 @@ Shut In
 Cats
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 8-0-Cats.tex
+
+Freedom
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-Free.tex
+
+Consequences
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-Consequences.tex
