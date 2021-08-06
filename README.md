@@ -6,7 +6,7 @@
 This is the reference materiel for the D&D world of Eudicods.
 
 ### Live Website
-https://Eudicods.github.io/Theaceae/
+https://theaceae.jeremylt.org/
 
 ### Building Locally
 
