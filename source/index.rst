@@ -21,4 +21,4 @@ Theaceae
 
 Other Realms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-`Astral Sea <https://eudicods.github.io/AstralSea/index.html>`_
+`Astral Sea <https://astralsea.jeremylt.org>`_
