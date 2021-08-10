@@ -22,3 +22,4 @@ Campaign Notes
    3-Forge/index
    4-Forest/index
    5-Interlude/index
+   6-ToSchool/index
