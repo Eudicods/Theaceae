@@ -9,3 +9,11 @@ Wolff Point Again
 No Creed
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 2-0-NoCreed.tex
+
+Dropping Hooks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 3-0-HookDrops.tex
+
+Hunted
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 4-0-Hunted.tex
