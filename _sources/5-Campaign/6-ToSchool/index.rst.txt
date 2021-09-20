@@ -17,3 +17,7 @@ Dropping Hooks
 Hunted
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 4-0-Hunted.tex
+
+Trading Favors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 5-0-Trade.tex
