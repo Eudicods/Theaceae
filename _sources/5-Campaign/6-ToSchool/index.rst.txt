@@ -21,3 +21,7 @@ Hunted
 Trading Favors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-Trade.tex
+
+Backtracking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-Backwards.tex
