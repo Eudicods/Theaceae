@@ -8,6 +8,7 @@ Dry Side
 
    WolffPoint/index
    Academy/index
+   Kalkum/index
    Sisters/index
    Farm/index
    FeyWoods/index
