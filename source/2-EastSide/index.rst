@@ -6,6 +6,7 @@ East Side
 .. toctree::
    :maxdepth: 2
 
-   Douro/index
    Camellia/index
+   Douro/index
    Croatoa/index
+   Friends/index
