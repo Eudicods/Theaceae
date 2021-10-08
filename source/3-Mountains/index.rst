@@ -7,5 +7,6 @@ White Spine Mountains
    :maxdepth: 2
 
    Sinensis/index
+   Domov/index
    Dwarves/index
    Dragon/index
