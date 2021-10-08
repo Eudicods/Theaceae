@@ -1,16 +1,16 @@
-Sisters
+Friends
 ====================================
 
 .. include:: Intro.tex
 
-Verses
+Leadership
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: Verses.tex
+.. include:: Leadership.tex
 
-Council
+Banking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: Council.tex
+.. include:: Banking.tex
 
-Outlying Areas
+Headquarters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: Outlying.tex
+.. include:: Headquarters.tex
