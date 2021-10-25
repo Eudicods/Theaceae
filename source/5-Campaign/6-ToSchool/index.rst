@@ -25,3 +25,15 @@ Trading Favors
 Backtracking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 6-0-Backwards.tex
+
+New Lead
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-NewLead.tex
+
+Shadowdusk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Shadowdusk.tex
+
+Reconnaissance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-Reconnaissance.tex
