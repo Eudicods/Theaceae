@@ -1,4 +1,4 @@
-Interlude
+To the Adventuring Academy
 ------------------------------------
 .. include:: Intro.tex
 
@@ -37,3 +37,15 @@ Shadowdusk
 Reconnaissance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 9-0-Reconnaissance.tex
+
+Black Tablet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-BlackTablet.tex
+
+Planning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 11-0-Planning.tex
+
+Battle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 12-0-Battle.tex
