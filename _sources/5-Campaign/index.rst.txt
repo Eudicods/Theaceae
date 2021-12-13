@@ -23,3 +23,4 @@ Campaign Notes
    4-Forest/index
    5-Interlude/index
    6-ToSchool/index
+   7-AtSchool/index
