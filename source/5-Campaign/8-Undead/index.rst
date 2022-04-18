@@ -17,3 +17,23 @@ Pit Fight
 Trapped Dragon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 4-0-Trapped.tex
+
+Freed Dragon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 5-0-Freed.tex
+
+Crab Hag
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-CrabHag.tex
+
+Shark Men
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-SharkMen.tex
+
+Finding More Dragons
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-FindingMore.tex
+
+Freeing More Dragons
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-FreeingMore.tex
