@@ -37,3 +37,27 @@ Finding More Dragons
 Freeing More Dragons
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 9-0-FreeingMore.tex
+
+Here be Gish
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-Gish.tex
+
+Prisoners
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 11-0-Prisoners.tex
+
+We Go Now
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 12-0-GoNow.tex
+
+Gith Children
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 13-0-Children.tex
+
+Supply Ship
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 14-0-SupplyShip.tex
+
+Escape
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 15-0-Escape.tex
