@@ -61,3 +61,11 @@ Supply Ship
 Escape
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 15-0-Escape.tex
+
+Space Orphans
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 16-0-Orphans.tex
+
+Free Me
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 17-0-FreeMe.tex
