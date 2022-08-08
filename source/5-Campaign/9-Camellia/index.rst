@@ -21,3 +21,7 @@ Fey Fare
 Gods and Not-Gods
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-GodsAndNot.tex
+
+Friends Leads
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-Leads.tex
