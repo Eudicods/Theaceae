@@ -25,3 +25,15 @@ Gods and Not-Gods
 Friends Leads
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 6-0-Leads.tex
+
+Jump to Adventuring Academy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-Jump.tex
+
+Picking Tattoos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Tattoos.tex
+
+Gith Patrol
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-Patrol.tex
