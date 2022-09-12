@@ -37,3 +37,11 @@ Picking Tattoos
 Gith Patrol
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 9-0-Patrol.tex
+
+War Planning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-Planning.tex
+
+Forest Tricks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 11-0-Forest.tex
