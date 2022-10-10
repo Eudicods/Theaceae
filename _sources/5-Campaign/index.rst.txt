@@ -26,3 +26,4 @@ Campaign Notes
    7-AtSchool/index
    8-Undead/index
    9-Camellia/index
+   10-LostLibrary/index
