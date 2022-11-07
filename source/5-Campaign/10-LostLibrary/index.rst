@@ -17,3 +17,7 @@ Getting Started
 Lycanthropy Cure
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 4-0-Wercure.tex
+
+Brewing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 5-0-Brewing.tex
