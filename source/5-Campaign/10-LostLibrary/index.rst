@@ -21,3 +21,15 @@ Lycanthropy Cure
 Brewing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-Brewing.tex
+
+Cloakers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-Cloaker.tex
+
+Dragon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-Dragon.tex
+
+Ceremony
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Ceremony.tex
