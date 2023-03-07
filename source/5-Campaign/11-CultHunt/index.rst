@@ -29,3 +29,7 @@ Ghost Town
 New Neighbors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 7-0-Neighbors.tex
+
+Rewind
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Rewind.tex
