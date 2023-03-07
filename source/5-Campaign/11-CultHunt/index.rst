@@ -14,3 +14,18 @@ Haunted Temple
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 3-0-Haunting.tex
 
+Night on the Town
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 4-0-Drinking.tex
+
+Jungle Transit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 5-0-Jungle.tex
+
+Ghost Town
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-GhostTown.tex
+
+New Neighbors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-Neighbors.tex
