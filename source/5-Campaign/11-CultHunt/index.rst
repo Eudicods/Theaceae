@@ -33,3 +33,15 @@ New Neighbors
 Rewind
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 8-0-Rewind.tex
+
+Escape
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-Escape.tex
+
+Into the Mists
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-Mists.tex
+
+Planning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 11-0-Plans.tex
