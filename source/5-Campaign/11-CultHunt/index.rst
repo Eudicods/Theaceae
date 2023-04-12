@@ -45,3 +45,7 @@ Into the Mists
 Planning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 11-0-Plans.tex
+
+Attack the Cult
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 12-0-Attack.tex
