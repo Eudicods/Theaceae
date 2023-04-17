@@ -28,3 +28,4 @@ Campaign Notes
    9-Camellia/index
    10-LostLibrary/index
    11-CultHunt/index
+   12-FixNow/index
