@@ -29,3 +29,4 @@ Campaign Notes
    10-LostLibrary/index
    11-CultHunt/index
    12-FixNow/index
+   13-DeadSword/index
