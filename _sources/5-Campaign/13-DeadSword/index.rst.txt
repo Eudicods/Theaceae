@@ -9,3 +9,8 @@ Welcome Home
 Spies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 2-0-Spies.tex
+
+Sneak Off
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 3-0-SneakOff.tex
+
