@@ -22,3 +22,11 @@ Grace's Story
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-Grace.tex
 
+Grace's Tomb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-More-Tomb.tex
+
+Continuing the Tomb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-More-Tomb.tex
+
