@@ -24,9 +24,25 @@ Grace's Story
 
 Grace's Tomb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: 7-0-More-Tomb.tex
+.. include:: 7-0-Tomb.tex
 
 Continuing the Tomb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. include:: 8-0-More-Tomb.tex
+.. include:: 8-0-Tomb.tex
+
+Continuing the Tomb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-Tomb.tex
+
+Finishing the Tomb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 10-0-Tomb.tex
+
+Returning to Domov
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 11-0-Domov.tex
+
+He Who Dreams
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 12-0-Library.tex
 
