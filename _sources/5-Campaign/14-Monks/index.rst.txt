@@ -22,3 +22,19 @@ Fix the Ship
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. include:: 5-0-Fix-Ship.tex
 
+Job Done
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 6-0-Job-Done.tex
+
+Back Underground
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 7-0-Back-Underground.tex
+
+Fix the Ship
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 8-0-Fix-Ship.tex
+
+Raid the Fort
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: 9-0-Fort-Raid.tex
+
