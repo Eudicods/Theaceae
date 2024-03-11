@@ -30,3 +30,4 @@ Campaign Notes
    11-CultHunt/index
    12-FixNow/index
    13-DeadSword/index
+   14-Monks/index
